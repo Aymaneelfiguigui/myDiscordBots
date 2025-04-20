@@ -1,0 +1,2324 @@
+{
+  "data": [
+    {
+      "type": "projection",
+      "id": "2302615",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "FNC/GM",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 65.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 30,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills (Combo)",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-04-16T12:52:51-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "194619"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "500"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2302616",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 65,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 31,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills (Combo)",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-04-16T13:52:09-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "193293"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "500"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2302617",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "NAVI/KC",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 67.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 32,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills (Combo)",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-04-16T12:52:51-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "194620"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "500"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2302618",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 68.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 33,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills (Combo)",
+        "status": "pre_game",
+        "tv_channel": null,
+        "updated_at": "2024-04-16T13:58:10-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "194621"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "500"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298667",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 7,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 100,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "37407"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298668",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 5.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 101,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "144089"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298669",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 9.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 102,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "38202"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298670",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 4,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 103,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "51073"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298671",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 7.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 104,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "142995"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298672",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 2.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 105,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "96015"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298673",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 7,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 106,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "59865"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298674",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 2.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 107,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "Maps 1-2 First Blood",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:18-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "45461"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "407"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298675",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 32.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 900,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "37407"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298676",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 31,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 901,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "144089"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298677",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 26,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 902,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T14:07:54-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "37405"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298678",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 23.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 903,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "144090"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298679",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Fnatic",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 23.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 904,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "144088"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298680",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 34.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 905,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "64449"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298681",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 33.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 906,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "38202"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298682",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 31.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 907,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T13:51:56-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "51073"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298683",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 31,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 908,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "37401"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298684",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Gentle Mates",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "hr_20": true,
+        "is_promo": false,
+        "line_score": 26.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 909,
+        "refundable": true,
+        "start_time": "2024-04-17T11:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "39442"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298685",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 36,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 910,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T13:58:10-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "142233"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298686",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 33,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 911,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "142995"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298687",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 28,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 912,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "96015"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298688",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 28,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 913,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "39445"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298689",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Natus Vincere",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 27,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 914,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "144118"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298690",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 33.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 915,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "28697"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298691",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 33.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 916,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T13:58:40-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "59865"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298692",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 30.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 917,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T14:41:14-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "28695"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298693",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 29.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 918,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "45461"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection",
+      "id": "2298694",
+      "attributes": {
+        "adjusted_odds": null,
+        "board_time": "2024-04-16T12:40:15-04:00",
+        "custom_image": null,
+        "description": "Karmine Corp",
+        "end_time": null,
+        "flash_sale_line_score": null,
+        "is_promo": false,
+        "line_score": 26.5,
+        "odds_type": "standard",
+        "projection_type": "Single Stat",
+        "rank": 919,
+        "refundable": true,
+        "start_time": "2024-04-17T14:00:00-04:00",
+        "stat_type": "MAPS 1-2 Kills",
+        "status": "pre_game",
+        "tv_channel": "https://www.twitch.tv/valorant_emea",
+        "updated_at": "2024-04-16T12:40:19-04:00"
+      },
+      "relationships": {
+        "duration": {
+          "data": null
+        },
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        },
+        "new_player": {
+          "data": {
+            "type": "new_player",
+            "id": "28694"
+          }
+        },
+        "projection_type": {
+          "data": {
+            "type": "projection_type",
+            "id": "2"
+          }
+        },
+        "stat_type": {
+          "data": {
+            "type": "stat_type",
+            "id": "330"
+          }
+        }
+      }
+    }
+  ],
+  "included": [
+    {
+      "type": "new_player",
+      "id": "59865",
+      "attributes": {
+        "combo": false,
+        "display_name": "ardiis",
+        "image_url": "https://static.prizepicks.com/images/manual/DFMopIO.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "ardiis",
+        "position": "G",
+        "team": "Natus Vincere",
+        "team_name": "45461"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "64449",
+      "attributes": {
+        "combo": false,
+        "display_name": "Alfajer",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Alfajer",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": "64449"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "28697",
+      "attributes": {
+        "combo": false,
+        "display_name": "Zyppan",
+        "image_url": "https://static.prizepicks.com/images/manual/DFMopIO.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Zyppan",
+        "position": "G",
+        "team": "Natus Vincere",
+        "team_name": "28697"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "28695",
+      "attributes": {
+        "combo": false,
+        "display_name": "Shao",
+        "image_url": "https://static.prizepicks.com/images/manual/DFMopIO.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Shao",
+        "position": "G",
+        "team": "Natus Vincere",
+        "team_name": "28695"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "193293",
+      "attributes": {
+        "combo": true,
+        "display_name": "Chronicle + Derke",
+        "image_url": "https://static.prizepicks.com/images/manual/Fnatic+Fnatic.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Chronicle + Derke",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "194620",
+      "attributes": {
+        "combo": true,
+        "display_name": "N4RRATE + Zyppan",
+        "image_url": "https://static.prizepicks.com/images/manual/KCorp+Navi.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "N4RRATE + Zyppan",
+        "position": "G",
+        "team": "KC/NAVI",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "407",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "Maps 1-2 First Blood",
+        "rank": 12
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "37407",
+      "attributes": {
+        "combo": false,
+        "display_name": "TakaS",
+        "image_url": "https://static.prizepicks.com/images/manual/pm15weE.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "TakaS",
+        "position": "G",
+        "team": "Gentle Mates",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "144090",
+      "attributes": {
+        "combo": false,
+        "display_name": "Wailers",
+        "image_url": "https://static.prizepicks.com/images/manual/pm15weE.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Wailers",
+        "position": "G",
+        "team": "Gentle Mates",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "39442",
+      "attributes": {
+        "combo": false,
+        "display_name": "Boaster",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Boaster",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": "39442"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "144089",
+      "attributes": {
+        "combo": false,
+        "display_name": "nataNk",
+        "image_url": "https://static.prizepicks.com/images/manual/pm15weE.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "nataNk",
+        "position": "G",
+        "team": "Gentle Mates",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "144088",
+      "attributes": {
+        "combo": false,
+        "display_name": "beyAz",
+        "image_url": "https://static.prizepicks.com/images/manual/pm15weE.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "beyAz",
+        "position": "G",
+        "team": "Gentle Mates",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "projection_type",
+      "id": "2",
+      "attributes": {
+        "name": "Single Stat"
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "38202",
+      "attributes": {
+        "combo": false,
+        "display_name": "Derke",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Derke",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": "38202"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "28694",
+      "attributes": {
+        "combo": false,
+        "display_name": "ANGE1",
+        "image_url": "https://static.prizepicks.com/images/manual/DFMopIO.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "ANGE1",
+        "position": "G",
+        "team": "Natus Vincere",
+        "team_name": "28694"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "500",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "MAPS 1-2 Kills (Combo)",
+        "rank": 10
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "51073",
+      "attributes": {
+        "combo": false,
+        "display_name": "Chronicle",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Chronicle",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": "51073"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "39445",
+      "attributes": {
+        "combo": false,
+        "display_name": "Magnum",
+        "image_url": "https://static.prizepicks.com/images/manual/fxNf7mV.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Magnum",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "194619",
+      "attributes": {
+        "combo": true,
+        "display_name": "TakaS + Alfajer",
+        "image_url": "https://static.prizepicks.com/images/manual/GentleMates+Fnatic.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "TakaS + Alfajer",
+        "position": "G",
+        "team": "GM/FNC",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "194621",
+      "attributes": {
+        "combo": true,
+        "display_name": "N4RRATE + marteen",
+        "image_url": "https://static.prizepicks.com/images/manual/KCorp+KCorp.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "N4RRATE + marteen",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "142995",
+      "attributes": {
+        "combo": false,
+        "display_name": "marteen",
+        "image_url": "https://static.prizepicks.com/images/manual/fxNf7mV.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "marteen",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "45461",
+      "attributes": {
+        "combo": false,
+        "display_name": "SUYGETSU",
+        "image_url": "https://static.prizepicks.com/images/manual/DFMopIO.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "SUYGETSU",
+        "position": "G",
+        "team": "Natus Vincere",
+        "team_name": "45461"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "37405",
+      "attributes": {
+        "combo": false,
+        "display_name": "logaN",
+        "image_url": "https://static.prizepicks.com/images/manual/pm15weE.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "logaN",
+        "position": "G",
+        "team": "Gentle Mates",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "37401",
+      "attributes": {
+        "combo": false,
+        "display_name": "Leo",
+        "image_url": "https://static.prizepicks.com/images/manual/oyaxvrb.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Leo",
+        "position": "G",
+        "team": "Fnatic",
+        "team_name": "37401"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "142233",
+      "attributes": {
+        "combo": false,
+        "display_name": "N4RRATE",
+        "image_url": "https://static.prizepicks.com/images/manual/fxNf7mV.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "N4RRATE",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "league",
+      "id": "159",
+      "attributes": {
+        "active": true,
+        "f2p_enabled": false,
+        "icon": "valorant",
+        "image_url": "https://static.prizepicks.com/images/leagues/production/29.svg",
+        "last_five_games_enabled": false,
+        "league_icon_id": 29,
+        "name": "VAL",
+        "projections_count": 0,
+        "rank": 8,
+        "show_trending": false
+      },
+      "relationships": {
+        "projection_filters": {
+          "data": []
+        }
+      }
+    },
+    {
+      "type": "stat_type",
+      "id": "330",
+      "attributes": {
+        "lfg_ignored_leagues": [],
+        "name": "MAPS 1-2 Kills",
+        "rank": 11
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "144118",
+      "attributes": {
+        "combo": false,
+        "display_name": "tomaszy",
+        "image_url": "https://static.prizepicks.com/images/manual/fxNf7mV.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "tomaszy",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": null
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    },
+    {
+      "type": "new_player",
+      "id": "96015",
+      "attributes": {
+        "combo": false,
+        "display_name": "Shin",
+        "image_url": "https://static.prizepicks.com/images/manual/fxNf7mV.png",
+        "league": "VAL",
+        "league_id": 159,
+        "market": null,
+        "name": "Shin",
+        "position": "G",
+        "team": "Karmine Corp",
+        "team_name": "96015"
+      },
+      "relationships": {
+        "league": {
+          "data": {
+            "type": "league",
+            "id": "159"
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": "api.prizepicks.com/projections?league_id=159&per_page=250&single_stat=true&game_mode=pickem"
+  },
+  "meta": {
+    "current_page": 1,
+    "total_pages": 1
+  }
+}
